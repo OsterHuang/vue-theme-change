@@ -1,5 +1,7 @@
 # scss-themem-study
 
+Demo頁：https://osterhuang.github.io/vue-theme-change/index.html
+
 ## Project setup
 ```
 npm install
